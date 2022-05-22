@@ -10,5 +10,8 @@ public class Hello{
     public static void main(String[] args) {
         // 打印输出hello World
         System.out.println("Hello World");
+
+        // 打印输出hello pan
+        System.out.println("Hello Pan!!!");
     }
 }
